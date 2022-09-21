@@ -9,7 +9,7 @@ import java.io.*;
  *
  * @author fanta
  */
-public class PracticaTeclado {
+public class Teclado {
 
     /**
      * @param args the command line arguments

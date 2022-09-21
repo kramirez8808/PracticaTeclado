@@ -7,10 +7,10 @@ public class HolaTeclado {
         int edad;
 
         System.out.print("Dime tu nombre: ");
-        nombre = PracticaTeclado.LeeCadena();
+        nombre = Teclado.LeeCadena();
 
         System.out.print("Dime tu edad: ");
-        edad = PracticaTeclado.LeeEntero();
+        edad = Teclado.LeeEntero();
 
         System.out.println("Hola " + nombre + 
         ", tienes " + edad + " años.");
